@@ -1,5 +1,7 @@
+*.chi
 *.iws
 .idea/tasks.xml
 .idea/workspace.xml
 .stack-work
-
+.in
+.out
